@@ -1,4 +1,3 @@
-bash-colors
-===========
+# bash colors
 
-My PS1 settings
+My Bash $PS1 settings.
